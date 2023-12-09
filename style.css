@@ -418,6 +418,7 @@ p {
 #about .col-left {
     width: 250px;
     height: 360px;
+    margin-bottom: 50px;
 }
 #about .col-right {
     width: 100%;
